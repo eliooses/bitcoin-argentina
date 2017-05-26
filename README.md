@@ -5,4 +5,4 @@ Lista de transacciones generadas por usuarios en el grupo https://fb.com/groups/
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |:-------------:|
 | https://fb.com/groups/BitcoinArg/permalink/1191205384324915/ | https://fb.com/zmener | https://fb.com/oseselio | Saldo Uphold | https://fb.com/oseselio | NO DECLARADO | NO DECLARADO |
 
-**Donations**: 1FaWYrdgr74H81zUdUU2JGGdYNRKFWheM1
+**Donaciones**: 1FaWYrdgr74H81zUdUU2JGGdYNRKFWheM1
